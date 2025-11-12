@@ -1,5 +1,5 @@
 <?php
-session_start();
+session_start();//takehiro yamada
 
 require "../classes/User.php";
 
